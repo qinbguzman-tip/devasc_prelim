@@ -1,0 +1,19 @@
+{
+    "temps": [
+        {
+            "temp_id": 1,
+            "date":"10/04/22",
+            "temperature": 34
+        },
+        {
+            "temp_id": 2,
+            "date":"10/05/22",
+            "temperature": 29
+        },
+        {
+            "temp_id": 3,
+            "date":"10/06/22",
+            "temperature": 31
+        }        
+    ]
+}
